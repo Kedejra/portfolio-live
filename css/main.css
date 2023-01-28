@@ -159,9 +159,14 @@ section::before
 {
   border-color: var(--highlight-colour);
   color: var(--highlight-colour) ;
-  letter-spacing: 0.2rem;
+
 }
 
+.btn-clear:hover i
+{
+  padding-left: 4rem;
+  transition-duration: 0.5s;
+}
 .bg-dark
 {
   background-color: var(--bg-dark);
