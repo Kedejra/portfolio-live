@@ -164,7 +164,7 @@ section::before
 
 .btn-clear:hover i
 {
-  padding-left: 4rem;
+  padding-left: 3rem;
   transition-duration: 0.5s;
 }
 .bg-dark
