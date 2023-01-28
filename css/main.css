@@ -159,6 +159,7 @@ section::before
 {
   border-color: var(--highlight-colour);
   color: var(--highlight-colour) ;
+  letter-spacing: 0.2rem;
 }
 
 .bg-dark
